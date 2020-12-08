@@ -9,6 +9,10 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.user-input{
+    background-color: #fff;
+}
+
 .results {
     line-height: 30px;
 }
